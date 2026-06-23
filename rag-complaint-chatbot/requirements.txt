@@ -1,0 +1,27 @@
+# Core dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Data visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Text processing and embeddings
+sentence-transformers>=2.2.0
+langchain>=0.0.300
+
+# Vector database
+chromadb>=0.4.0
+
+# LLM
+transformers>=4.30.0
+torch>=2.0.0
+accelerate>=0.20.0
+
+# Web interface
+gradio>=4.0.0
+
+# Utilities
+pyarrow>=12.0.0
+tqdm>=4.65.0
+python-dotenv>=1.0.0
